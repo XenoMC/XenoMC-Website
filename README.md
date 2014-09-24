@@ -1,6 +1,1 @@
-Project Name:
-XenoMC-Website
-==============
-
-Description:
-HTML Source For http://xenominecraft.com/
+This is the HTML source code for my minecraft network website.
